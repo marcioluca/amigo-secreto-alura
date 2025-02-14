@@ -28,13 +28,11 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais de lógica de
 
 ## 📷 Imagem do Projeto
 ![Imagem do Projeto](assets/img-exemplo.png)
-<!-- 
-## 📌 Melhorias Futuras
-- Adicionar a funcionalidade de remover nomes da lista antes do sorteio.
-- Implementar um sistema que evite repetição de sorteios consecutivos.
-- Criar um layout responsivo para melhor experiência em dispositivos móveis.
 
---- -->
+## 📌 Link do Projeto
+https://marcioluca.github.io/amigo-secreto-alura/
+
+---
 
 💡 **Desenvolvido para praticar lógica de programação com JavaScript!**
 
