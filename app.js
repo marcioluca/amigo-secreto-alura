@@ -15,7 +15,6 @@ function adicionarAmigo() {
    //Limpar campo
    document.getElementById("amigo").value = "";
 };
-console.log(amigos);
 
 // funcao para percorrer a lista de amigos e exibir na tela 
 function listaAmigos() {
